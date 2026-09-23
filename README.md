@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sehyuk Jang 👋</h1>
+<h1 align="center">Hi there, I'm Sehyuk Jang :wave:</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Handong%20Global%20University-Since%202021-0033A0?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Handong Global University" />
@@ -6,20 +6,20 @@
 
 <blockquote align="center">
   <p><i>"I have hidden your word in my heart that I might not sin against you."</i></p>
-  <p>— Psalm 119:11</p>
+  <p>&mdash; Psalm 119:11</p>
 </blockquote>
 
 ---
 
-### 🎓 About Me
+### :mortar_board: About Me
 
-- 🏫 Studying at **Handong Global University** since **2021**
-- 💻 I work with **C**, **Java**, and **Python**
-- ✨ Guided by my life verse above
+- Studying at **Handong Global University** since **2021**
+- I work with **C**, **Java**, and **Python**
+- Guided by my life verse above
 
 ---
 
-### �️ Languages & Tools
+### :hammer_and_wrench: Languages &amp; Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
@@ -29,7 +29,7 @@
 
 ---
 
-### � GitHub Stats
+### :bar_chart: GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=newred02&show_icons=true&theme=default" alt="GitHub Stats" />
@@ -39,7 +39,7 @@
 
 ---
 
-### � Connect with Me
+### :mailbox: Connect with Me
 
 <p align="left">
   <a href="https://github.com/newred02">
