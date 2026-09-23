@@ -14,7 +14,7 @@
 ### :mortar_board: About Me
 
 - 🏫 Studying at **Handong Global University** since **2021**
-- 💻 I work with **C**, **Java**, and **Python**
+- 💻 I work with **C**, **Java**, **Python**, and **Dart**
 - ✨ Guided by my life verse above
 
 ---
@@ -25,16 +25,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-
----
-
-### :bar_chart: GitHub Stats
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=newred02&theme=default" alt="GitHub Streak" />
-  <br/>
-  <img src="https://vani-stats.vercel.app/api?username=newred02&theme=default" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 </p>
 
 ---
@@ -46,3 +37,18 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
+---
+
+### :bar_chart: GitHub Stats
+
+<table>
+  <tr>
+    <td valign="top" align="center">
+      <img height="195" src="https://streak-stats.demolab.com/?user=newred02&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+    </td>
+    <td valign="top" align="center">
+      <img height="195" src="https://vani-stats.vercel.app/api?username=newred02&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
