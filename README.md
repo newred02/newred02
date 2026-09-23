@@ -13,9 +13,9 @@
 
 ### :mortar_board: About Me
 
-- Studying at **Handong Global University** since **2021**
-- I work with **C**, **Java**, and **Python**
-- Guided by my life verse above
+- 🏫 Studying at **Handong Global University** since **2021**
+- 💻 I work with **C**, **Java**, and **Python**
+- ✨ Guided by my life verse above
 
 ---
 
@@ -32,9 +32,11 @@
 ### :bar_chart: GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=newred02&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=newred02&show_icons=true&theme=default&cache_seconds=86400" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newred02&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=newred02&theme=default" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newred02&layout=compact&theme=default&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ---
