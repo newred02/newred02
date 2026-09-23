@@ -44,11 +44,11 @@
 
 <table>
   <tr>
-    <td valign="top" align="center">
-      <img height="195" src="https://streak-stats.demolab.com/?user=newred02&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+    <td width="50%" valign="middle" align="center">
+      <img width="100%" src="https://streak-stats.demolab.com/?user=newred02&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
     </td>
-    <td valign="top" align="center">
-      <img height="195" src="https://vani-stats.vercel.app/api?username=newred02&theme=tokyonight" alt="Top Languages" />
+    <td width="50%" valign="middle" align="center">
+      <img width="100%" src="https://vani-stats.vercel.app/api?username=newred02&theme=tokyonight&max_langs=6" alt="Top Languages" />
     </td>
   </tr>
 </table>
