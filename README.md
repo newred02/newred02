@@ -32,11 +32,9 @@
 ### :bar_chart: GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=newred02&show_icons=true&theme=default&cache_seconds=86400" alt="GitHub Stats" />
-  <br/>
   <img src="https://streak-stats.demolab.com/?user=newred02&theme=default" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newred02&layout=compact&theme=default&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://vani-stats.vercel.app/api?username=newred02&theme=default" alt="Top Languages" />
 </p>
 
 ---
