@@ -38,6 +38,7 @@
   </a>
 </p>
 
+<!--
 ---
 
 ### :bar_chart: GitHub Stats
@@ -52,3 +53,4 @@
     </td>
   </tr>
 </table>
+-->
