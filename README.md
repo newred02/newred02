@@ -14,7 +14,7 @@
 ### :mortar_board: About Me
 
 - 🏫 Studying at **Handong Global University** since **2021**
-- 💻 I work with **C**, **Java**, **Python**, and **Dart**
+- 💻 I work with **C**, **Java**, and **Python**
 - ✨ Guided by my life verse above
 
 ---
